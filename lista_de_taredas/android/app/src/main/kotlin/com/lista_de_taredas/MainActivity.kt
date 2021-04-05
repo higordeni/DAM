@@ -1,4 +1,4 @@
-package com.aplicativo_de_financas
+package com.lista_de_taredas
 
 import io.flutter.embedding.android.FlutterActivity
 

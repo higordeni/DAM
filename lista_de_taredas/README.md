@@ -1,4 +1,4 @@
-# aplicativo_de_financas
+# lista_de_taredas
 
 A new Flutter application.
 
